@@ -57,7 +57,7 @@ shuup==1.9.2
 simplejson==3.16.0        # via django-rest-swagger
 six==1.12.0               # via keyrings-alt, python-dateutil, shuup, sphinx
 snowballstemmer==1.2.1    # via sphinx
-sphinx==1.5.6
+sphinx==3.0.4
 toml==0.10.0              # via shuup
 unicodecsv==0.14.1        # via shuup
 unidecode==1.0.23         # via django-filer
