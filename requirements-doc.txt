@@ -10,7 +10,7 @@ certifi==2019.3.9         # via requests
 chardet==3.0.4            # via requests
 coreapi==2.3.3            # via django-rest-swagger, openapi-codec
 coreschema==0.0.4         # via coreapi
-django==1.11.20
+django==3.2.15
 django-bootstrap3==9.1.0  # via shuup
 django-countries==5.2     # via shuup
 django-enumfields==0.9.0  # via shuup
@@ -26,7 +26,7 @@ django-registration-redux==1.8  # via shuup
 django-rest-swagger==2.1.2  # via shuup
 django-reversion==2.0.13  # via shuup
 django-timezone-field==2.1  # via shuup
-djangorestframework==3.5.4  # via django-parler-rest, django-rest-swagger, shuup
+djangorestframework==3.11.2  # via django-parler-rest, django-rest-swagger, shuup
 djangorestframework-jwt==1.11.0  # via shuup
 docutils==0.14            # via sphinx
 easy-thumbnails==2.6      # via django-filer
