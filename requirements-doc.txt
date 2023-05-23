@@ -52,7 +52,7 @@ pygments==2.3.1           # via sphinx
 pyjwt==1.7.1              # via djangorestframework-jwt
 python-dateutil==2.8.0    # via shuup
 pytz==2018.9              # via babel, django, django-timezone-field
-requests==2.21.0          # via coreapi, shuup, sphinx
+requests==2.31.0          # via coreapi, shuup, sphinx
 shuup==1.9.2
 simplejson==3.16.0        # via django-rest-swagger
 six==1.12.0               # via keyrings-alt, python-dateutil, shuup, sphinx
