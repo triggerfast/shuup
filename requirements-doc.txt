@@ -34,7 +34,7 @@ entrypoints==0.3          # via keyring
 et-xmlfile==1.0.1         # via openpyxl
 factory-boy==2.7.0        # via shuup
 fake-factory==0.5.3       # via factory-boy, shuup
-idna==2.8                 # via requests
+idna==3.7                 # via requests
 imagesize==1.1.0          # via sphinx
 itypes==1.1.0             # via coreapi
 jdcal==1.4                # via openpyxl
