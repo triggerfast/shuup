@@ -14,7 +14,7 @@ django==1.11.20
 django-bootstrap3==9.1.0  # via shuup
 django-countries==5.2     # via shuup
 django-enumfields==0.9.0  # via shuup
-django-filer==1.4.4       # via shuup
+django-filer==3.3.0       # via shuup
 django-filter==1.1.0      # via shuup
 django-jinja==2.4.1       # via shuup
 django-js-asset==1.2.2    # via django-mptt
